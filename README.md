@@ -45,3 +45,5 @@ I hope  to make great things with my coding skills!
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdiorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdiorio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+![Snake animation](https://github.com/vdiorio/vdiorio/blob/output/github-contribution-grid-snake.svg)
