@@ -26,8 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" title="MySQL"/></code>
 <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="GraphQL"/></code>
-
+<code><img width="40px" src="https://w7.pngwing.com/pngs/47/318/png-transparent-graphql-playground-macos-bigsur-icon-thumbnail.png" title="GraphQL"/></code>
 ## 💼 My Portfolio
 Check out my latest projects and case studies: [**Portfolio**](https://vdiorio.github.io/)
 
