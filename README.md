@@ -1,50 +1,50 @@
-### Hello Devs! 👋
-My name is Vitor, I am 26 years old and I love technology.
-Currently transitioning career, I've studied and worked with eletricity since I was young.
-I hope  to make great things with my coding skills! 
+# 👋 Hello, World! I'm Vitor Martins Diorio
 
-<br>
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on creating intuitive and responsive user interfaces. My journey in tech is driven by a deep love for solving complex problems and a commitment to continuous learning.
 
-# Vitor Martins Diorio
-   <a href="https://vdiorio.github.io/" target="_blank">Link My Portfolio!</a>
+## 🚀 About Me
 
-<br>
+- 🌟 **Web Developer** specializing in **JavaScript**, **TypeScript**, **React**, and **Next.js**.
+- 💻 Currently building my personal portfolio and contributing to open-source projects.
+- 🎓 Lifelong learner, currently diving deeper into **GraphQL**, **Apollo Client**, and **Clean Code** principles.
+- 🤝 Looking to collaborate with innovative teams that value growth, creativity, and a collaborative work environment.
+- 🌱 Actively enhancing my skills by exploring new technologies and best practices.
 
-## Contact
+## 🔧 Technologies & Tools
 
+### Frontend
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material-UI"/></code>
+
+### Backend & DevOps
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js"/></code>
+<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" title="MySQL"/></code>
+<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
+<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="GraphQL"/></code>
+
+## 💼 My Portfolio
+Check out my latest projects and case studies: [**Portfolio**](https://vdiorio.github.io/)
+
+## 📬 Let's Connect!
 <a href="https://www.linkedin.com/in/vitordiorio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<br>
-<br>
-
-
-## Tools and Tecnologies
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://img.icons8.com/glyph-neue/344/4a90e2/github.png" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title = "Docker"/></code>
-<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" title = "MYSQL"/></code>
-
-<br>
-<br>
-
-🔭 I’m currently working on my own projects. <a href="https://play.google.com/store/apps/details?id=com.vdiorio.EdhCounter&hl=pt_BR&gl=US">Check out my latest app!</a>
-
-🌱 I’m currently reading the 📘 "Clean Code" by Robert C. Martin.
-
-👯 I’m looking to collaborate on a company that care with people and have a good environment to learn and grow together!
-
-<br>
-<br>
-
+## 📈 GitHub Stats
 <div align="center">
 <a href="https://github.com/vdiorio">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vdiorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdiorio&layout=compact&langs_count=7&theme=dracula"/>
-   
-![Snake animation](https://github.com/vdiorio/vdiorio/blob/output/github-contribution-grid-snake.svg)
-   
+</a>
 </div>
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/vdiorio/vdiorio/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+I’m always excited to take on new challenges, build awesome products, and collaborate with talented professionals. Let’s create something amazing together!
